@@ -1,0 +1,2 @@
+# GoogleHashpractice
+Hash code solutions
